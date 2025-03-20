@@ -38,7 +38,7 @@ function Navbar() {
                 Contact
               </Link> */}
               <a
-                href="/src/images/Eseh Osagie CV 2025-2.pdf"
+                href="/src/images/EsehOsagieCV2025-2.pdf"
                 className="bg-blue-600 text-white hover:bg-blue-700 px-4 py-2 rounded-md text-sm font-medium"
                 download
               >
