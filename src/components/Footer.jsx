@@ -28,7 +28,7 @@ function Footer() {
               LinkedIn
             </a>
             <a
-              href="/src/images/EsehOsagieCV2025-2.pdf"
+              href="/EsehOsagieCV2025-2.pdf"
               download
               className="text-gray-300 hover:text-white"
             >
