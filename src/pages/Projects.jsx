@@ -19,6 +19,13 @@ function Projects() {
       technologies: ["React", "Javascript", "CSS"],
     },
     {
+      title: "Nova",
+      description: "Een bedrijf's fictieve webshop pagina.",
+      image: "/src/images/Logo Ignyte_transparentbg.png",
+      link: "https://rad-yeot-72804e.netlify.app",
+      technologies: ["React", "Typescript", "Javascript", "CSS"],
+    },
+    {
       title: "Front Page",
       description: "Een simpele front page gebouwd met html/css.",
       image: "/src/images/Screenshot 2025-03-20 at 12.57.31.png",
