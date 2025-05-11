@@ -4,7 +4,8 @@ function Projects() {
   const projects = [
     {
       title: "FitFusion",
-      description: "Een responsive web applicatie gebouwd met React.",
+      description:
+        "Een responsive web applicatie gebouwd met React. In deze web applicatie kun je ook een fitness schema laten genereren",
       image: "",
       link: "https://velvety-syrniki-43b0a2.netlify.app",
       technologies: ["React", "Typescript", "JavaScript"],
