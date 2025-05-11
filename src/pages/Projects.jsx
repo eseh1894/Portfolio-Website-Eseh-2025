@@ -3,6 +3,20 @@ import React from "react";
 function Projects() {
   const projects = [
     {
+      title: "FitFusion",
+      description: "Een responsive web applicatie gebouwd met React.",
+      image: "",
+      link: "https://velvety-syrniki-43b0a2.netlify.app",
+      technologies: ["React", "Typescript", "JavaScript"],
+    },
+    {
+      title: "Nova",
+      description: "Een bedrijf's fictieve webshop pagina.",
+      image: "/src/images/Logo Ignyte_transparentbg.png",
+      link: "https://rad-yeot-72804e.netlify.app",
+      technologies: ["React", "Typescript", "Javascript", "CSS"],
+    },
+    {
       title: "Travel Ease",
       description:
         "Een responsive web applicatie gebouwd met React en Tailwind CSS.",
@@ -18,13 +32,7 @@ function Projects() {
       link: "https://ignyte.online/",
       technologies: ["React", "Javascript", "CSS"],
     },
-    {
-      title: "Nova",
-      description: "Een bedrijf's fictieve webshop pagina.",
-      image: "/src/images/Logo Ignyte_transparentbg.png",
-      link: "https://rad-yeot-72804e.netlify.app",
-      technologies: ["React", "Typescript", "Javascript", "CSS"],
-    },
+
     {
       title: "Front Page",
       description: "Een simpele front page gebouwd met html/css.",
